@@ -3,6 +3,7 @@ YOUTUBE VIDEO -> https://www.youtube.com/watch?v=dk_N53vnJiY
 
 1. Download Python and Chrome browser 
 2. pip install -r requirements.txt
+3. Always make sure chromedriver.exe is always the latest version that is compatible with the chrome browser version you have installed)
 5. python openseaupload.py (Run the script)
 7. Press the "Open Chrome Browser" button
 8. Set up your metamask wallet and login to Opensea using your wallet
